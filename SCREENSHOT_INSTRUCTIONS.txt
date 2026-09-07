@@ -1,0 +1,9 @@
+Screenshot requirement
+
+Run Task_15_p1.py on your own computer in VS Code, then take screenshots
+of the terminal/output window showing:
+1. The page title and headings.
+2. Quotes and authors from at least one page.
+3. Output from another page to show that the program visits multiple pages.
+
+Save the screenshots in this folder before submitting.
