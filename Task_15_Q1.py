@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 url = "https://quotes.toscrape.com/"
-requests.get(url)
+requests.get(url) #<Response [200]>
 website = requests.get(url).text
 html_website = BeautifulSoup(website , "html")
 
