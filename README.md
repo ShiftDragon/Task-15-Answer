@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 4. Run the Python file:
 
-python Task_15_p1.py
+python Task_15_Q1.py
 
 ## Example output
 
