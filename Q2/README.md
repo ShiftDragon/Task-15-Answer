@@ -1,4 +1,4 @@
-# Task 2 - Scrape Images from a Website
+# Task 15 Q2 - Scrape Images from a Website
 
 ## What the project does
 
