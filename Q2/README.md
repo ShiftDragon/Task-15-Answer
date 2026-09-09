@@ -45,4 +45,5 @@ Downloaded: 01_image10.jpg
 Downloaded: 02_image10.jpg
 ...
 Downloaded: 10_image10.jpg
+All images were downloaded in downloaded_images folder
 ```
